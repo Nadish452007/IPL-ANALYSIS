@@ -90,20 +90,20 @@ kkr_records = pd.DataFrame({
         "Sunil Narine"
     ],
     "Value": [
-        2,          # Titles
-        4,          # Finals (2012, 2014, 2021, 2024)
+        2,          
+        4,         
         "1st Place",
-        122,        # Matches as captain
-        3035,       # Most runs
-        158,        # Highest score
-        "170+",       # Most wickets (approx.)
-        "5/19",     # Best figures
-        "245/6",    # Highest total
-        "67",       # Lowest total
-        "190+",       # Most sixes (Russell)
-        "30+",        # Most fifties
-        1,          # Most hundreds
-        "160+"       # Matches played by Narine
+        122,       
+        3035,       
+        158,         
+        "170+",      
+        "5/19",    
+        "245/6",    
+        "67",      
+        "190+",       
+        "30+",        
+        1,           
+        "160+"      
     ]
 })
 st.dataframe(kkr_records)
