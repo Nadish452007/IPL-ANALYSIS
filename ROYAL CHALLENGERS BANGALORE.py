@@ -72,18 +72,18 @@ rcb_records = pd.DataFrame({
         "Virat Kohli – 7 hundreds"
     ],
     "Value": [
-        0,               # Titles
-        3,               # Finals in 2009, 2011, 2016
-        "140+",            # Kohli's captaincy matches
-        "7500+",           # Kohli's total IPL runs
-        "175*",          # Gayle's 175 vs Pune
-        139,             # Chahal's RCB wickets
-        "5/5",           # Kumble's best
-        "263/5",         # Highest team total
-        "49",            # Lowest total
-        "240+",            # Gayle sixes for RCB
-        "45+",             # Kohli fifties
-        7                # Kohli's hundreds
+        0,              
+        3,               
+        "140+",            
+        "7500+",           
+        "175*",          
+        139,             
+        "5/5",           
+        "263/5",         
+        "49",            
+        "240+",            
+        "45+",            
+        7                
     ]
 })
 st.dataframe(rcb_players)
